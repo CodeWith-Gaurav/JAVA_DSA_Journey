@@ -20,7 +20,7 @@ Each topic/module will have its own folder with:
 - ✅ Solved problems from assignments and practice
 
 ### 📂 Folder Structure
-```bash
+
 JAVA_DSA_journey/
 ├── 01_Basics/
 ├── 02_Conditionals_Loops/
@@ -56,13 +56,15 @@ You can run any Java file in this repository using a Java IDE like **IntelliJ ID
 
 ### 🧪 Run via Terminal
 
-```bash
 # Step 1: Compile the file
+```bash
 javac FileName.java
+```
 
 # Step 2: Run the compiled file
+```bash
 java FileName
-
+```
 ## 📌 Notes
 
 - This repository is created **only for educational purposes**.
